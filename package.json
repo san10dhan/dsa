@@ -1,0 +1,30 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "This is a project that includes dsa implemented using javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine ./spec/test/array-operations.spec.js",
+    "start": "node ./src/app/array-operations.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/san10dhan/dsa.git"
+  },
+  "keywords": [
+    "dsa",
+    "node",
+    "jasmine",
+    "js"
+  ],
+  "author": "Sanket_D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/san10dhan/dsa/issues"
+  },
+  "homepage": "https://github.com/san10dhan/dsa#readme",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
