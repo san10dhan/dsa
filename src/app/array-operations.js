@@ -17,6 +17,3 @@ export function purchaseItem(item) {
 export function showPurchasedItems() {
     console.log(purchasedItems);
  }
-
- console.log(purchaseItem('Headphones'));
- showPurchasedItems();
